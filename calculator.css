@@ -69,8 +69,7 @@ body {
 .button.operator:hover,
 .button.num:hover,
 .button.equal:hover {
-
-    background-color: var(--color-hover);
+  background-color: var(--color-hover);
 }
 .button.function {
   color: var(--color-black);
@@ -87,4 +86,11 @@ body {
   justify-content: flex-start;
   padding-left: 43px;
   width: 215px;
+}
+
+.button.operator.division:hover,
+.button.operator.multipy:hover,
+.button.operator.subtraction:hover,
+.button.operator.add:hover {
+  background-color: var(--color-operator-hover);
 }

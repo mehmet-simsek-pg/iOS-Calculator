@@ -8,6 +8,7 @@
   --color-operator: #f1a33c;
   --color-buttons: #333;
   --color-hover: rgba(255, 255, 255, 0.611);
+  --color-operator-hover: rgba(247, 209, 160, 0.955);
 
   --ff-helvetica: "Helvetica Neue", sans-serif;
 }
